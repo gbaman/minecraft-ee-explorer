@@ -14,10 +14,10 @@
 
 Blocks
 ```
-codebuilder navigate @p false https://minecraft.makecode.com/#tutorial:51085-98035-80360-55174
+codebuilder navigate @p false https://minecraft.makecode.com/?ipc=1&inGame=1#tutorial:51085-98035-80360-55174
 ```
 
 Python
 ```
-codebuilder navigate @p false https://minecraft.makecode.com/#tutorial:py:51085-98035-80360-55174
+codebuilder navigate @p false https://minecraft.makecode.com/?ipc=1&inGame=1#tutorial:py:51085-98035-80360-55174
 ```
